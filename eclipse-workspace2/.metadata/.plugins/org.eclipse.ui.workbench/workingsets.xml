@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1633504032418_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1633504032446_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1650028404352_6" label="EPROG 2021" name="EPROG 2021">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U02 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U07 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U03 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U08 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U04 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U10 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U03 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U04 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U05 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U01 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U02 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U08 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U09 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U09 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U06 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U07 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U11 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U05 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U01 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U06 Solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U12 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U10 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U11 lucbachmann" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/U12 Solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1650028531783_7" label="PPROG" name="PPROG">
+<item elementID="=assignment1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment5" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment6" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment7" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment8" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment10_" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment11" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=assignment12" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1650028573908_8" label="Extras" name="Extras">
+<item elementID="=beginner_exercises" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Prüfungen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Übungen_Git" type="4"/>
+<item elementID="=Graph" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1665053638715_11" label="EPROG 2022" name="EPROG 2022">
+<item elementID="=U01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U06forreal" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U05\!" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U07" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U08." factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U09" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U10" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U11" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=U12." factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1666198685255_11" label="A&amp;D" name="A&amp;D">
+<item elementID="=Searching&amp;Sorting" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DynamicProgramming" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Graphs" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1673512052521_13" label="EprogHS19" name="EprogHS19"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1673512332233_14" label="EprogPrüfungen" name="EprogPrüfungen">
+<item elementID="=HS19.2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HS19.3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HS19.4" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HS19.01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS20.01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS20.02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS20.03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS20.04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS20.05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS21.1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS21.03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS21.02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HS21B1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HS21.B02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HS21A2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FS22.1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1633504034663_2" label="Window Working Set" name="Aggregate for window 1633504034663"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1634056425317_3" label="Window Working Set" name="Aggregate for window 1634056425317"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1634056504269_4" label="Window Working Set" name="Aggregate for window 1634056504269"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1635690021852_5" label="Window Working Set" name="Aggregate for window 1635690021852"/>
+<mruList name="EprogPrüfungen"/>
+<mruList name="EPROG 2022"/>
+<mruList name="A&amp;D"/>
+<mruList name="EPROG 2021"/>
+<mruList name="PPROG"/>
+</workingSetManager>

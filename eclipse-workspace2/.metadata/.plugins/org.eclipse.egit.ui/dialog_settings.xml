@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Luca &lt;Luca@192.168.1.37&gt;"/>
+		<item value="Luca &lt;Luca@172.20.10.2&gt;"/>
+		<item value="Luca &lt;Luca@student-net-hg-dock-1-c-0928.intern.ethz.ch&gt;"/>
+		<item value="Luca &lt;Luca@192.168.0.102&gt;"/>
+		<item value="Luca &lt;Luca@student-net-hg-2799.intern.ethz.ch&gt;"/>
+		<item value="Luca &lt;Luca@macbook-air-di-luca-bachmann.home&gt;"/>
+		<item value="Luca &lt;Luca@student-net-etx-1438.intern.ethz.ch&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Luca &lt;Luca@192.168.1.37&gt;"/>
+		<item value="Luca &lt;Luca@172.20.10.2&gt;"/>
+		<item value="Luca &lt;Luca@student-net-hg-dock-1-c-0928.intern.ethz.ch&gt;"/>
+		<item value="Luca &lt;Luca@192.168.0.102&gt;"/>
+		<item value="Luca &lt;Luca@student-net-hg-2799.intern.ethz.ch&gt;"/>
+		<item value="Luca &lt;Luca@macbook-air-di-luca-bachmann.home&gt;"/>
+		<item value="Luca &lt;Luca@student-net-etx-1438.intern.ethz.ch&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://gitlab.inf.ethz.ch/course-eprog2022/students/lucbachmann.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="457"/>
+		<item key="DIALOG_Y_ORIGIN" value="138"/>
+		<item key="DIALOG_WIDTH" value="527"/>
+		<item key="DIALOG_HEIGHT" value="390"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="395"/>
+		<item key="DIALOG_Y_ORIGIN" value="106"/>
+		<item key="DIALOG_WIDTH" value="650"/>
+		<item key="DIALOG_HEIGHT" value="439"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.ResetTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="418"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="586"/>
+		<item key="DIALOG_HEIGHT" value="724"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

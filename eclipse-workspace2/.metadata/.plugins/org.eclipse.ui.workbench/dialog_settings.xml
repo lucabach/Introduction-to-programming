@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="EPROG 2022"/>
+		<item value="PPROG"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="502"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="439"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.jdt.ui.preferences.BuildPathPreferencePage"/>
+			<item value="org.eclipse.jdt.ui.PackageExplorer"/>
+			<item value="org.eclipse.egit.ui.RepositoriesView"/>
+			<item value="org.eclipse.egit.ui.StagingView"/>
+			<item value="org.eclipse.buildship.ui.commands.refreshtaskview"/>
+			<item value="org.eclipse.ui.console.ConsoleView"/>
+			<item value="org.eclipse.ui.window.preferences"/>
+			<item value="org.eclipse.ui.preferencePages.Views"/>
+			<item value="org.eclipse.ui.navigator.ProjectExplorer"/>
+			<item value="org.eclipse.debug.ui.DebugView"/>
+			<item value="org.eclipse.egit.ui.RepositoriesViewClone"/>
+			<item value="/assignment3/src/ethz/ch/pp/assignment3/threads/FairThreadCounter.java"/>
+			<item value="org.eclipse.m2e.core.views.MavenBuild"/>
+			<item value="org.eclipse.egit.ui.CompareTreeView"/>
+			<item value="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+			<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+			<item value="org.eclipse.ui.file.import"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.wizards"/>
+			<item value="org.eclipse.ui.wizards"/>
+			<item value="org.eclipse.ui.commands"/>
+		</list>
+		<list key="textEntries">
+			<item value="3"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="build path"/>
+			<item value="buil"/>
+			<item value="path"/>
+			<item value="packag"/>
+			<item value="repo"/>
+			<item value="git repos"/>
+			<item value="st"/>
+			<item value="git"/>
+			<item value="refresh"/>
+			<item value="ref"/>
+			<item value="consol"/>
+			<item value="co"/>
+			<item value="pref"/>
+			<item value="preferences"/>
+			<item value="colo"/>
+			<item value="app"/>
+			<item value="proj"/>
+			<item value="deb"/>
+			<item value="git clon"/>
+			<item value="fairt"/>
+			<item value="workspace"/>
+			<item value="tree"/>
+			<item value="package"/>
+			<item value="new class"/>
+			<item value="class"/>
+			<item value="import"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/fvfvcn1ej1wk/Desktop/aeyxt7zlj7wo9cet/BiomWorldTask"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/73hga7mpjt9u3ja9/ConstructionTask"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/73hga7mpjt9u3ja9/graph_execution"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/73hga7mpjt9u3ja9"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/aeyxt7zlj7wo9cet/LabyrinthTask"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/c7m86izz72w38yht/LabelledGraph"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/c7m86izz72w38yht/PagerTask"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/c7m86izz72w38yht/PagerTask/src"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/exam_prog_template_fs21/Aufgabe 2"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/exam_prog_template_fs21/Aufgabe 3"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/exam_prog_template_fs21/Aufgabe 1"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/fs20_programming_template/Aufgabe 3"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/fs20_programming_template/Aufgabe 1"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/cyuby6dc49t47x3g (2)/Aufgabe 4"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/cyuby6dc49t47x3g (2)/Aufgabe 3"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/cyuby6dc49t47x3g (2)/Aufgabe 2"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/cyuby6dc49t47x3g (2)/Aufgabe 1"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/cyuby6dc49t47x3g (2)"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/cyuby6dc49t47x3g (2)/Aufgabe 1/src"/>
+			<item value="/Users/fvfvcn1ej1wk/git/lucabachmann/u11-bonus"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+		<item key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/fvfvcn1ej1wk/git/lucabachmann/u12-bonus/src"/>
+		</list>
+	</section>
+</section>

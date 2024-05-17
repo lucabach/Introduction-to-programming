@@ -1,0 +1,8 @@
+CloneWizard_ShowDetailedFailureDialog=false
+StagingView_SyncWithSelection=false
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>first version. Passed all the tests but I am having commit problems.</message>\n<message>second version</message>\n<message>first version</message>\n<message>First Version</message>\n<message>Assignment 2. I was not able to solve E (i.e., to parallelize the loop).</message>\n<message>test3</message>\n<message>test2</message>\n<message>test</message>\n<message>Bonus</message>\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
+show_running_launch_on_checkout_warning=false

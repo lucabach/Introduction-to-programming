@@ -1,0 +1,48 @@
+import java.util.Set;
+import java.util.HashMap;
+
+public class Baustelle implements CSite {
+	
+	public Set<Integer> types;
+	public int limit;
+	public HashMap <Integer, Integer> quantities;
+	
+	public Baustelle(Set<Integer> types, int limit) {
+		this.types = types;
+		this.limit=limit;
+	}
+	
+	
+	public Set<Resource> resources();
+	
+	
+	public boolean canAdd(Resource resource) {
+		if(types.contains(resource.type())) {
+			if(quantities.get(resource.type())<limit) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	public void add(Resource resource) throws IllegalArgumentException {
+		if(canAdd(resource)) {
+			if(quantities.containsKey(resource.type())) {
+				int currentq = quantities.get(resource.type());
+				currentq++;
+				quantities.put(resource.type(), currentq);
+			}
+			else {
+				quantities.put(resource.type(), 1);
+			}
+		}
+		else {
+			throw new IllegalArgumentException("cannot add resource");
+		}
+	}
+	
+	
+	public void use(Resource resource);
+	public void close();
+
+}

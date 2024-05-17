@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/fvfvcn1ej1wk/git/lucabachmann/u12-bonus/src"/>
+			<item value="/Users/fvfvcn1ej1wk/git/lucabachmann/u11-bonus"/>
+			<item value="/Users/fvfvcn1ej1wk/git/lucabachmann/u02"/>
+			<item value="/Users/fvfvcn1ej1wk/git/lucabachmann/u01"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/D-INFK/Einführung Programmierung/Übungen_Git"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/D-INFK/Einführung Programmierung/Übungen_Git/u07"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/D-INFK/Einführung Programmierung/Übungen_Git/u06"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/D-INFK/Einführung Programmierung/Übungen_Git/u05"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="/Users/fvfvcn1ej1wk/Documents/git_repository"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/fvfvcn1ej1wk/Desktop/u0.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment12.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment11.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment8.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment7.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment6.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment5.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment3.zip"/>
+			<item value="/Users/fvfvcn1ej1wk/Desktop/assignment2.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>
